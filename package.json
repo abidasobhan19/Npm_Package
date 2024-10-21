@@ -1,0 +1,24 @@
+{
+  "name": "react-circle-round-slider",
+  "version": "1.0.1",
+  "description": "",
+  "main": "circle.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "keywords": [
+    "react-slider",
+    "react-circle-round-slider"
+  ],
+  "author": "Abid Ahmed Sobhan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.7",
+    "@babel/preset-env": "^7.25.8",
+    "@babel/preset-react": "^7.25.7"
+  }
+}
